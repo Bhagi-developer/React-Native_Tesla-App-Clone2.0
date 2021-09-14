@@ -44,7 +44,4 @@ Now there are many options for you to run the app in different places or platfor
 * open the Expo app and Scan the QR Code provide in Expo Browser Window.
 
 
-## If You Run App Successfully!
-Now Here i have provide some pics of app screens.
-
 
